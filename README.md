@@ -1,2 +1,9 @@
-# silent-frontier-feedback
-《寂静边界 Silent Frontier》公开反馈仓库：问题与建议提交处
+# 寂静边界 · Silent Frontier — 公开反馈仓库
+
+这是《寂静边界》的公开反馈入口，只用于收集问题与建议；游戏源码不在本仓库。
+
+- 在线游玩：https://silent-frontier-a9o7qtqpbnl.qoder.zone
+- 提交反馈：点击游戏主菜单「反馈 / 建议」，或直接在本仓库新建 Issue。
+- 请附上游戏内生成的诊断信息（坐标、版本、浏览器），便于复现问题。
+
+请勿在此仓库上传游戏源码或素材的副本。
