@@ -12,7 +12,8 @@
 **项目名称：** 寂静边界 Silent Frontier  
 **项目性质：** 独立游戏设计与开发项目  
 **项目状态：** 持续开发中  
-**发布平台：** GitHub
+**运行环境：** 浏览器
+**AIcoding平台：** Qoder CN
 
 ## 一、项目创作声明
 
@@ -87,7 +88,8 @@
 **Project Name:** Silent Frontier (寂静边界)  
 **Project Type:** Independent Game Design and Development Project  
 **Project Status:** In Development  
-**Development Platform:** GitHub
+**Development Platform:** Browser
+**AICoding Platform:** Qoder CN
 
 ---
 
